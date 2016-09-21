@@ -1,0 +1,19 @@
+[
+{
+  "modid": "BigRF",
+  "name": "Big RF",
+  "description": "Making really big power generation more complex",
+  "version": "1.7.10-0.1",
+  "credits": "Inspired by ErogenousBeef's Big Reactors",
+  "logoFile": "",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+  "Dora_Goon"
+  ],
+  "parent":"",
+  "screenshots": [],
+  "dependencies": []
+}
+]

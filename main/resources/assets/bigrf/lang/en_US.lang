@@ -1,0 +1,13 @@
+item.bigrf:fuel.name=Fuel Pellet
+tile.multiblockPart.0.name=Structural Frame
+tile.multiblockPart.1.name=Flux Port
+tile.multiblockPart.2.name=Item Port
+tile.multiblockPart.3.name=Fluid Port
+tile.multiblockPart.4.name=Energy Cell Controller
+tile.multiblockPart.5.name=Boiler Controller
+tile.multiblockPart.6.name=Turbine Controller
+tile.multiblockPart.7.name=Reactor Controller
+tile.blockTurbineRotorPart.0.name=Rotor Shaft
+tile.blockTurbineRotorPart.1.name=Rotor Blade
+tile.blockTurbineRotorPart.2.name=Rotor Bearing
+tile.blockTurbineRotorPart.3.name=Rotor Piston
