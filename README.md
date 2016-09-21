@@ -1,4 +1,4 @@
 # BigRF
 procedural multiblocks minecraft mod
 
-Uses E.Beef's BeefCore
+Uses erogenous beef's BeefCore, so all credit goes to him
